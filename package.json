@@ -23,8 +23,8 @@
   "dependencies": {
     "codecov.io": "^0.1.6",
     "coveralls": "^2.11.16",
-    "react-bootstrap": " 0.30.7",
-    "react-jsonschema-form": "0.43.0"
+    "react-bootstrap": "^0.32.4",
+    "react-jsonschema-form": "^1.0.6"
   },
   "peerDependencies": {
     "react": "15.x"
@@ -40,9 +40,9 @@
     "jest": "19.0.2",
     "nwb": "0.15.x",
     "nwb-less": " 0.5.1",
-    "react": "15.4.2",
-    "react-dom": "15.4.2",
-    "react-dropzone": " 3.11.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-dropzone": "^7.0.1",
     "react-test-renderer": " 15.4.2"
   },
   "author": "Mario Scheliga <marsch.js@gmail.com>",
